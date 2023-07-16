@@ -1,8 +1,8 @@
-# Olá pessoal,
+# ThignsClicks
+
+## Olá pessoal,
 
 Estou empolgado em compartilhar com vocês o meu projeto de jogo, um protótipo no qual apliquei várias técnicas aprendidas durante o meu curso de Programador Junior da Unity.
-
-## ThingsClicks 
 
 ## Descrição:
 Este projeto é um protótipo de jogo que desenvolvi para aplicar e aprimorar minhas habilidades como programador Unity. O objetivo do jogo é  destruir os objetos em formatos de caixas sem deixar as mesma cair, e evitar destruir as caveiras. Fiz questão de implementar diversas mecânicas interessantes que oferecem uma experiência envolvente e divertida para o jogador.
@@ -25,7 +25,6 @@ Espero que gostem!
 
 Atenciosamente,
 Dev Williams
-![image](https://github.com/willgja/ThingsClicks/assets/43920697/a5462e33-f4e1-4c3f-a213-d1aedd45a671)
 
 
 
