@@ -15,6 +15,8 @@ Este projeto é um protótipo de jogo que desenvolvi para aplicar e aprimorar mi
 ![image](https://github.com/willgja/ThingsClicks/assets/43920697/d1be57b6-1373-4bb3-962b-d409d0b94113)
 ![image](https://github.com/willgja/ThingsClicks/assets/43920697/48f75374-83b9-45ee-bb1b-0aba124a6c86)
 
+## Proximos passos:
+- Adcionar Ranking de pontuação.
 
 
 ## Como Executar o Jogo:
