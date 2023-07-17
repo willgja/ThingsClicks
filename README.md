@@ -20,7 +20,7 @@ Este projeto é um protótipo de jogo que desenvolvi para aplicar e aprimorar mi
 
 
 ## Como Executar o Jogo:
-Clique no link a seguir para executar o game via Web: 
+Clique no link a seguir para executar o game via Web: https://willgja.github.io/ThingsClicks/
 
 
 Espero que gostem!
